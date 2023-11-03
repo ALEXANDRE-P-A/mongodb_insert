@@ -1,0 +1,5 @@
+[2023-11-03T15:08:27.490] [INFO] access - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 695 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+[2023-11-03T15:08:27.533] [WARN] access - ::ffff:127.0.0.1 - - "GET /resources/css/main.css HTTP/1.1" 304 - "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+[2023-11-03T15:08:33.509] [INFO] access - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 695 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+[2023-11-03T15:08:33.528] [INFO] access - ::ffff:127.0.0.1 - - "GET /resources/css/main.css HTTP/1.1" 200 1153 "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+[2023-11-03T15:08:33.738] [INFO] access - ::ffff:127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 200 18540 "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
